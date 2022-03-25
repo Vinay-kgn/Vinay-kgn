@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vinay K
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Angular , Javascript,HTML ,CSS
